@@ -18,3 +18,20 @@
 .filesAddressStyle div:hover{
   background-color: #e0ecfb;
 }
+
+.img-fluid-fm{
+  max-width: 100%;
+  height: 150px;
+}
+
+.cardStyle{
+  font-size: 20px;
+}
+
+.cardBackGround{  
+  background: rgba(0,0,0,0.2);
+}
+
+.directory{
+  cursor: pointer;
+}
